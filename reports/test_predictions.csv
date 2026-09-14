@@ -1,0 +1,39 @@
+source_row,profile_group,disease,fever,cough,fatigue,difficulty_breathing,predicted,correct,rank_1,rank_2,rank_3
+0,e9c1dca7d5966aaf5b34f75bb11bdb4aaf4f9673398daf9d280565066ee24d8b,Influenza,Yes,No,Yes,Yes,Common Cold,False,Common Cold,Gastroenteritis,Osteoarthritis
+11,8ae8c05076bda09ef2e56ad430994d6e235b415d717240b02e908b7f45006ba0,Allergic Rhinitis,No,Yes,Yes,No,Psoriasis,False,Psoriasis,Ulcerative Colitis,Eczema
+12,115c43137d4bc12621c890fee5ef2821bba4709c2ba2a52bcb8ab71656fb3d52,Anxiety Disorders,No,Yes,No,No,Hypertension,False,Hypertension,Diabetes,Hyperthyroidism
+16,6b4526bf5ca7d9295b139753ab2dd715ca55bede8e6a58f8181e364af98718e3,Pancreatitis,Yes,No,No,No,Psoriasis,False,Psoriasis,Eczema,Allergic Rhinitis
+28,76cdad867f9c5f3fb488a1e33b8fff30f14f834274986e0303d5fb0e8afaa7ed,Migraine,Yes,No,No,No,Psoriasis,False,Psoriasis,Eczema,Allergic Rhinitis
+56,98f51f78b94265e126fc315acbcbb6d05874765efda8324d3f1d015ee53f6fc8,Asthma,No,Yes,Yes,Yes,Urinary Tract Infection,False,Urinary Tract Infection,Pancreatitis,Rheumatoid Arthritis
+63,469b1014b418f43fba78f00fc14551da008d5a522db19a5410c70b5609efcfda,Eczema,No,Yes,No,No,Hypertension,False,Hypertension,Diabetes,Hyperthyroidism
+75,290bfd3f1470e182be5a231eabe51dbaa63a4f866fe7a9d9b76e985be2536668,Asthma,Yes,Yes,No,Yes,Asthma,True,Asthma,Urinary Tract Infection,Bronchitis
+79,6ef4b25b3351011cc853c027b5720d181a04d4c49a3c90dee00e2ffe35c8962d,Depression,No,No,Yes,No,Hypothyroidism,False,Hypothyroidism,Hyperthyroidism,Crohn's Disease
+81,d94e4f66f552642eae2cd833652f3d09d53747fbf02c041001dc79882c81b1f4,Hyperthyroidism,Yes,Yes,Yes,No,Crohn's Disease,False,Crohn's Disease,Hyperthyroidism,Liver Disease
+83,78c751ba22a00a7cd6c090402c8b2e8c955557863f85e2b672e4ba6993dbf724,Kidney Cancer,No,No,Yes,No,Hypothyroidism,False,Hypothyroidism,Hyperthyroidism,Crohn's Disease
+85,78c751ba22a00a7cd6c090402c8b2e8c955557863f85e2b672e4ba6993dbf724,Liver Disease,No,No,Yes,No,Hypothyroidism,False,Hypothyroidism,Hyperthyroidism,Crohn's Disease
+94,78c751ba22a00a7cd6c090402c8b2e8c955557863f85e2b672e4ba6993dbf724,Ulcerative Colitis,No,No,Yes,No,Hypothyroidism,False,Hypothyroidism,Hyperthyroidism,Crohn's Disease
+97,9277eaac661844ca83a46c57d0733f8f037d0c9d8ff8b8ce8e92f556ddc273c8,Allergic Rhinitis,No,Yes,No,No,Hypertension,False,Hypertension,Diabetes,Hyperthyroidism
+114,f093d62ea3e991f655abfff4ce6e76941f8018359da634dfe286c9bca4d8138c,Bronchitis,No,Yes,No,Yes,Liver Disease,False,Liver Disease,Kidney Disease,Asthma
+132,c5b53c326163deda7d4242717bba7724d7b3db6a53ed51bca53e2ee18ef99295,Gastroenteritis,Yes,Yes,Yes,No,Crohn's Disease,False,Crohn's Disease,Hyperthyroidism,Liver Disease
+140,fd2cd1bcd7faca631b19ac02c310057a68e1ea4562e9103d65d4421144dbdecc,Psoriasis,No,Yes,No,No,Hypertension,False,Hypertension,Diabetes,Hyperthyroidism
+144,b45461da58c2066a86ab7e122b917ac63b1ff185d0aa846d86284693f9d9f3c3,Common Cold,Yes,Yes,No,No,Ulcerative Colitis,False,Ulcerative Colitis,Osteoarthritis,Anxiety Disorders
+153,98a0a74d32e5466b108d426b74ce7b878da779d0a8d5a942a0b12bb9d9fba213,Stroke,Yes,No,Yes,No,Stroke,True,Stroke,Hypertension,Kidney Disease
+155,2d5ade42b3866513d959872d62d70a7f8ff3e782f6d3cfe70953209768f7b6ba,Diabetes,Yes,Yes,Yes,No,Crohn's Disease,False,Crohn's Disease,Hyperthyroidism,Liver Disease
+156,91fc7108c86972f6871489b361da7beafd594e793569dce374b017079cc21347,Hypothyroidism,Yes,Yes,Yes,No,Crohn's Disease,False,Crohn's Disease,Hyperthyroidism,Liver Disease
+159,b485cf5acfebe4d65dab3bc017f6826e757b25d8766bc918d63c3e0e81d11cfa,Pneumonia,No,Yes,Yes,Yes,Urinary Tract Infection,False,Urinary Tract Infection,Pancreatitis,Rheumatoid Arthritis
+162,d8cbeb2d63a9c9ef317d6767e3f6c63ae62eb325cee9a79318c3b2f3b803d760,Crohn's Disease,Yes,No,Yes,No,Stroke,False,Stroke,Hypertension,Kidney Disease
+169,73610cf21a2231f24968a2ffb07b653de8ba5a89c32a0a891b893e0279f6d4a2,Migraine,No,No,No,No,Common Cold,False,Common Cold,Gastroenteritis,Anxiety Disorders
+173,922f3617c66acb1f238d94c1cb6bf1529c098ccf7b66cb56bc1cad95dc19654a,Stroke,No,No,Yes,No,Hypothyroidism,False,Hypothyroidism,Hyperthyroidism,Crohn's Disease
+176,73610cf21a2231f24968a2ffb07b653de8ba5a89c32a0a891b893e0279f6d4a2,Urinary Tract Infection,No,No,No,No,Common Cold,False,Common Cold,Gastroenteritis,Anxiety Disorders
+225,795323da8a0ad6bcfa9945196197f7b1a43933fd743a5f464d9aff0472b13369,Bronchitis,Yes,Yes,Yes,Yes,Pneumonia,False,Pneumonia,Influenza,Bronchitis
+232,c5040f5f740e6cb564d96bf8a6630c4455872e95ebd3737000370ce1d52e7cb6,Liver Cancer,No,Yes,Yes,Yes,Urinary Tract Infection,False,Urinary Tract Infection,Pancreatitis,Rheumatoid Arthritis
+237,c5040f5f740e6cb564d96bf8a6630c4455872e95ebd3737000370ce1d52e7cb6,Stroke,No,Yes,Yes,Yes,Urinary Tract Infection,False,Urinary Tract Infection,Pancreatitis,Rheumatoid Arthritis
+254,7155120ca911910606378fd8034219e36d6082cc6355a3752a39d93e6c1632da,Osteoporosis,No,No,Yes,No,Hypothyroidism,False,Hypothyroidism,Hyperthyroidism,Crohn's Disease
+261,71caf5003336a0021d7d99b91e88012fb6ee32a3ccd43121fdf14cb80ee99753,Hypertension,Yes,No,Yes,No,Stroke,False,Stroke,Hypertension,Kidney Disease
+280,8736eb8f95376be158e66a3f80c4799d1511daf07f6afd40f9eb1d4edebe9e67,Osteoarthritis,No,Yes,No,Yes,Liver Disease,False,Liver Disease,Kidney Disease,Asthma
+282,8c709f7f265eb408f93e7690a8959387afb6f524b623208aac1c6e81b9ca07bb,Osteoporosis,Yes,No,No,No,Psoriasis,False,Psoriasis,Eczema,Allergic Rhinitis
+286,b645c602a7d46b09998f57b9d403de5e2cb15cd14461e3d0e972d89fe71b2f82,Asthma,Yes,Yes,Yes,Yes,Pneumonia,False,Pneumonia,Influenza,Bronchitis
+293,07edf7b2f5f07ff05350da2e234516703b84818edb39636f1c96f009319d6af2,Hypertension,No,No,No,No,Common Cold,False,Common Cold,Gastroenteritis,Anxiety Disorders
+295,b645c602a7d46b09998f57b9d403de5e2cb15cd14461e3d0e972d89fe71b2f82,Kidney Disease,Yes,Yes,Yes,Yes,Pneumonia,False,Pneumonia,Influenza,Bronchitis
+301,159d971c44839500a5df6c334aca46b3f4d39266058c8611d078c28d393d4843,Rheumatoid Arthritis,No,No,Yes,No,Hypothyroidism,False,Hypothyroidism,Hyperthyroidism,Crohn's Disease
+318,0f9db2005a39d76ba7a7a9ce108a38f629801d0ef46c5b7d1b54b9584a30db65,Diabetes,Yes,Yes,Yes,No,Crohn's Disease,False,Crohn's Disease,Hyperthyroidism,Liver Disease

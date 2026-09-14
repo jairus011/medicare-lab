@@ -1,0 +1,32 @@
+{
+  "checked_on_utc": "2026-09-14",
+  "scope": "Local validation of the exact Render startup command; no live deployment claimed",
+  "automated_tests_passed": 31,
+  "startup_command": "bash scripts/start.sh",
+  "port_environment_value": "10000",
+  "bind_address": "0.0.0.0",
+  "health_endpoint": "/_stcore/health",
+  "health_status": 200,
+  "artifact_preflight": "passed",
+  "browser_checks": [
+    "Empty input rejected in live browser",
+    "Symptom selection and model result rendered",
+    "Opt-in exact source names displayed without dose instructions",
+    "Evaluation page and plot rendered",
+    "No desktop horizontal overflow",
+    "390px mobile layout renders without horizontal overflow"
+  ],
+  "javascript_errors": [],
+  "desktop_viewport": [
+    1440,
+    1800
+  ],
+  "mobile_viewport": [
+    390,
+    1800
+  ],
+  "model_sha256": "44a97ba03bd1394ae737e6c1e57e9f7ae9d979c6346117626f8e857534611568",
+  "model_retrained_for_deployment": false,
+  "live_deployment_verified": false,
+  "render_blueprint_schema_validation": "passed against https://render.com/schema/render.yaml.json"
+}

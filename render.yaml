@@ -1,0 +1,22 @@
+# Reproducible configuration for the educational Streamlit demonstration.
+services:
+  - type: web
+    name: medicare-lab
+    runtime: python
+    plan: free
+    region: frankfurt
+    repo: https://github.com/jairus011/medicare-lab
+    branch: main
+    autoDeployTrigger: commit
+    buildCommand: python -m pip install -r requirements.txt && python -m healthcare.verify
+    startCommand: bash scripts/start.sh
+    healthCheckPath: /_stcore/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.14
+      - key: PYTHONUNBUFFERED
+        value: "1"
+      - key: OMP_NUM_THREADS
+        value: "1"
+      - key: OPENBLAS_NUM_THREADS
+        value: "1"

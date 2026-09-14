@@ -1,0 +1,125 @@
+{
+  "files": [
+    {
+      "name": "Medicine_Recommendation_System (1)(1).ipynb",
+      "bytes": 58052,
+      "sha256": "e8c8783d1917d23d8e996136680b74fec62200a593f1b0b1d3ba92e4bf692da0",
+      "role": "Symptom classification notebook",
+      "cells": 26
+    },
+    {
+      "name": "medicare(1).zip",
+      "bytes": 323039,
+      "sha256": "71a6668d41b42c6acd1e004248c9e11361394611f9aaa3b8a734ac58ed159a92",
+      "role": "MediCare source archive",
+      "members": [
+        {
+          "path": "medicare/app.py",
+          "bytes": 18055
+        },
+        {
+          "path": "medicare/best_model.pkl",
+          "bytes": 2522947
+        },
+        {
+          "path": "medicare/Cleaned_Dataset.csv",
+          "bytes": 33097
+        },
+        {
+          "path": "medicare/disease_encoder.pkl",
+          "bytes": 346
+        },
+        {
+          "path": "medicare/medicine_database.pkl",
+          "bytes": 9723
+        },
+        {
+          "path": "medicare/templates/about.html",
+          "bytes": 4927
+        },
+        {
+          "path": "medicare/templates/contact.html",
+          "bytes": 7505
+        },
+        {
+          "path": "medicare/templates/index.html",
+          "bytes": 45897
+        }
+      ]
+    },
+    {
+      "name": "Medicine_Recommendation_System (1).ipynb",
+      "bytes": 58052,
+      "sha256": "e8c8783d1917d23d8e996136680b74fec62200a593f1b0b1d3ba92e4bf692da0",
+      "role": "Symptom classification notebook",
+      "cells": 26
+    },
+    {
+      "name": "Medicine_Recommendation_System.ipynb",
+      "bytes": 58052,
+      "sha256": "e8c8783d1917d23d8e996136680b74fec62200a593f1b0b1d3ba92e4bf692da0",
+      "role": "Symptom classification notebook",
+      "cells": 26
+    },
+    {
+      "name": "Personalized_Medicine_Recommending_System (1).ipynb",
+      "bytes": 140684,
+      "sha256": "9ddb926fce06f4d722e4f696fba9a108b398b6d12d5a0b37625d0309474b1ee1",
+      "role": "Drug catalogue text-similarity notebook",
+      "cells": 37
+    },
+    {
+      "name": "medicare.zip",
+      "bytes": 323039,
+      "sha256": "71a6668d41b42c6acd1e004248c9e11361394611f9aaa3b8a734ac58ed159a92",
+      "role": "MediCare source archive",
+      "members": [
+        {
+          "path": "medicare/app.py",
+          "bytes": 18055
+        },
+        {
+          "path": "medicare/best_model.pkl",
+          "bytes": 2522947
+        },
+        {
+          "path": "medicare/Cleaned_Dataset.csv",
+          "bytes": 33097
+        },
+        {
+          "path": "medicare/disease_encoder.pkl",
+          "bytes": 346
+        },
+        {
+          "path": "medicare/medicine_database.pkl",
+          "bytes": 9723
+        },
+        {
+          "path": "medicare/templates/about.html",
+          "bytes": 4927
+        },
+        {
+          "path": "medicare/templates/contact.html",
+          "bytes": 7505
+        },
+        {
+          "path": "medicare/templates/index.html",
+          "bytes": 45897
+        }
+      ]
+    }
+  ],
+  "unique_archive_contents": 1,
+  "unique_notebook_contents": 2,
+  "missing_dataset_files": [
+    "Training.csv",
+    "symtoms_df.csv",
+    "precautions_df.csv",
+    "workout_df.csv",
+    "description.csv",
+    "medications.csv",
+    "diets.csv",
+    "medicine.csv"
+  ],
+  "note": "Searched available uploads by exact and shorter filenames; no complete versions of the missing CSV files were found. Original uploaded files were not modified."
+}

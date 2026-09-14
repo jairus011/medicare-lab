@@ -1,0 +1,117 @@
+condition,unique_profiles,included
+Acne,1,False
+Allergic Rhinitis,6,True
+Alzheimer's Disease,3,False
+Anemia,1,False
+Anxiety Disorders,6,True
+Appendicitis,1,False
+Asthma,16,True
+Atherosclerosis,1,False
+Autism Spectrum Disorder (ASD),1,False
+Bipolar Disorder,1,False
+Bladder Cancer,1,False
+Brain Tumor,1,False
+Breast Cancer,1,False
+Bronchitis,7,True
+Cataracts,1,False
+Cerebral Palsy,1,False
+Chickenpox,1,False
+Cholecystitis,1,False
+Cholera,1,False
+Chronic Kidney Disease,1,False
+Chronic Obstructive Pulmonary Disease (COPD),2,False
+Chronic Obstructive Pulmonary...,1,False
+Cirrhosis,1,False
+Colorectal Cancer,1,False
+Common Cold,6,True
+Conjunctivitis (Pink Eye),1,False
+Coronary Artery Disease,3,False
+Crohn's Disease,5,True
+Cystic Fibrosis,1,False
+Dementia,1,False
+Dengue Fever,1,False
+Depression,6,True
+Diabetes,10,True
+Diverticulitis,1,False
+Down Syndrome,1,False
+Eating Disorders (Anorexia,1,False
+Ebola Virus,1,False
+Eczema,6,True
+Endometriosis,1,False
+Epilepsy,1,False
+Esophageal Cancer,1,False
+Fibromyalgia,1,False
+Gastroenteritis,6,True
+Glaucoma,1,False
+Gout,1,False
+HIV/AIDS,1,False
+Hemophilia,2,False
+Hemorrhoids,1,False
+Hepatitis,2,False
+Hepatitis B,1,False
+Hyperglycemia,1,False
+Hypertension,10,True
+Hypertensive Heart Disease,1,False
+Hyperthyroidism,5,True
+Hypoglycemia,1,False
+Hypothyroidism,5,True
+Influenza,7,True
+Kidney Cancer,6,True
+Kidney Disease,5,True
+Klinefelter Syndrome,2,False
+Liver Cancer,6,True
+Liver Disease,5,True
+Lung Cancer,3,False
+Lyme Disease,1,False
+Lymphoma,1,False
+Malaria,1,False
+Marfan Syndrome,1,False
+Measles,1,False
+Melanoma,1,False
+Migraine,10,True
+Multiple Sclerosis,3,False
+Mumps,1,False
+Muscular Dystrophy,1,False
+Myocardial Infarction (Heart...,1,False
+Obsessive-Compulsive Disorde...,1,False
+Osteoarthritis,6,True
+Osteomyelitis,1,False
+Osteoporosis,12,True
+Otitis Media (Ear Infection),1,False
+Ovarian Cancer,1,False
+Pancreatic Cancer,1,False
+Pancreatitis,5,True
+Parkinson's Disease,3,False
+Pneumocystis Pneumonia (PCP),1,False
+Pneumonia,7,True
+Pneumothorax,1,False
+Polio,1,False
+Polycystic Ovary Syndrome (PCOS),1,False
+Prader-Willi Syndrome,1,False
+Prostate Cancer,1,False
+Psoriasis,5,True
+Rabies,1,False
+Rheumatoid Arthritis,6,True
+Rubella,1,False
+Schizophrenia,1,False
+Scoliosis,1,False
+Sepsis,1,False
+Sickle Cell Anemia,1,False
+Sinusitis,1,False
+Sleep Apnea,1,False
+Spina Bifida,1,False
+Stroke,11,True
+Systemic Lupus Erythematosus...,1,False
+Testicular Cancer,1,False
+Tetanus,1,False
+Thyroid Cancer,1,False
+Tonsillitis,1,False
+Tourette Syndrome,1,False
+Tuberculosis,2,False
+Turner Syndrome,1,False
+Typhoid Fever,1,False
+Ulcerative Colitis,5,True
+Urinary Tract Infection,5,True
+Urinary Tract Infection (UTI),3,False
+Williams Syndrome,1,False
+Zika Virus,1,False

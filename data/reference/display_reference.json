@@ -1,0 +1,676 @@
+{
+  "source_sha256": "81de1546502948510092b4cbc90ad7fca17c81d472025b3aa7cb24b783a86d6a",
+  "policy": "Unverified historical source entries for education only. Names are substrings; food and course entries are verbatim. Doses, schedules, advice, and triage instructions are omitted. No invented fallback content.",
+  "records": {
+    "Influenza": {
+      "condition": "Influenza",
+      "source": "medicare.zip / medicine_database.pkl",
+      "verified_medically": false,
+      "description": null,
+      "description_status": "No disease description was supplied in the available reference dataset.",
+      "medicine_names": [
+        {
+          "text": "Oseltamivir (Tamiflu)",
+          "source_field": "medicines",
+          "source_index": 0,
+          "source_text_sha256": "7b10d8efe337c9a43c5093a5188e235f4110cd64fb47bbb59c80806f785d2123"
+        },
+        {
+          "text": "Acetaminophen",
+          "source_field": "medicines",
+          "source_index": 1,
+          "source_text_sha256": "20048f28ce3a919156bd33a08d222f07194b0b2df94882acd339f997e8c99778"
+        },
+        {
+          "text": "Ibuprofen",
+          "source_field": "medicines",
+          "source_index": 2,
+          "source_text_sha256": "dc66167bc5a7de262ad11865546f4c7f84a0e9413df1da5e027eb53e114b3bcd"
+        }
+      ],
+      "foods_to_eat": [
+        {
+          "text": "Chicken soup",
+          "source_field": "foods_to_eat",
+          "source_index": 0
+        },
+        {
+          "text": "Citrus fruits",
+          "source_field": "foods_to_eat",
+          "source_index": 1
+        },
+        {
+          "text": "Ginger tea",
+          "source_field": "foods_to_eat",
+          "source_index": 2
+        },
+        {
+          "text": "Garlic",
+          "source_field": "foods_to_eat",
+          "source_index": 3
+        },
+        {
+          "text": "Honey",
+          "source_field": "foods_to_eat",
+          "source_index": 4
+        }
+      ],
+      "foods_to_avoid": [
+        {
+          "text": "Dairy products",
+          "source_field": "foods_to_avoid",
+          "source_index": 0
+        },
+        {
+          "text": "Fried foods",
+          "source_field": "foods_to_avoid",
+          "source_index": 1
+        },
+        {
+          "text": "Alcohol",
+          "source_field": "foods_to_avoid",
+          "source_index": 2
+        },
+        {
+          "text": "Caffeine",
+          "source_field": "foods_to_avoid",
+          "source_index": 3
+        }
+      ],
+      "source_reported_course": {
+        "text": "7-10 days",
+        "source_field": "recovery_time"
+      },
+      "withheld": false
+    },
+    "Asthma": {
+      "condition": "Asthma",
+      "source": "medicare.zip / medicine_database.pkl",
+      "verified_medically": false,
+      "description": null,
+      "description_status": "No disease description was supplied in the available reference dataset.",
+      "medicine_names": [
+        {
+          "text": "Albuterol (Rescue Inhaler)",
+          "source_field": "medicines",
+          "source_index": 0,
+          "source_text_sha256": "0c5c34064fa4abc3a8be06b3535e77b95757f722586cf2a7bdcef2104a884468"
+        },
+        {
+          "text": "Fluticasone (Controller)",
+          "source_field": "medicines",
+          "source_index": 1,
+          "source_text_sha256": "75da5102ac1765d3b81a52732074192e9e7f93d52644a54c81751560dc627cb2"
+        },
+        {
+          "text": "Montelukast",
+          "source_field": "medicines",
+          "source_index": 2,
+          "source_text_sha256": "c2e6f4d1c0b29d3abe5c7bf5e9d440b592eb3dc07f3069dee52051e91867b509"
+        }
+      ],
+      "foods_to_eat": [
+        {
+          "text": "Omega-3 rich fish",
+          "source_field": "foods_to_eat",
+          "source_index": 0
+        },
+        {
+          "text": "Fruits high in Vitamin C",
+          "source_field": "foods_to_eat",
+          "source_index": 1
+        },
+        {
+          "text": "Leafy greens",
+          "source_field": "foods_to_eat",
+          "source_index": 2
+        }
+      ],
+      "foods_to_avoid": [
+        {
+          "text": "Sulfite-containing foods",
+          "source_field": "foods_to_avoid",
+          "source_index": 0
+        },
+        {
+          "text": "Processed meats",
+          "source_field": "foods_to_avoid",
+          "source_index": 1
+        },
+        {
+          "text": "Dairy if sensitive",
+          "source_field": "foods_to_avoid",
+          "source_index": 2
+        }
+      ],
+      "source_reported_course": {
+        "text": "Chronic condition - requires ongoing management",
+        "source_field": "recovery_time"
+      },
+      "withheld": false
+    },
+    "Diabetes": {
+      "condition": "Diabetes",
+      "source": "medicare.zip / medicine_database.pkl",
+      "verified_medically": false,
+      "description": null,
+      "description_status": "No disease description was supplied in the available reference dataset.",
+      "medicine_names": [
+        {
+          "text": "Metformin",
+          "source_field": "medicines",
+          "source_index": 0,
+          "source_text_sha256": "49946b6bc867b2a77485c77252bd6650199f67b295be7724aeb094d37e584289"
+        },
+        {
+          "text": "Insulin (if prescribed)",
+          "source_field": "medicines",
+          "source_index": 1,
+          "source_text_sha256": "2de5f89ebee6f4d881c66d9b36e5dd4676e58567a87b51e14350174120d85983"
+        }
+      ],
+      "foods_to_eat": [
+        {
+          "text": "Non-starchy vegetables",
+          "source_field": "foods_to_eat",
+          "source_index": 0
+        },
+        {
+          "text": "Whole grains",
+          "source_field": "foods_to_eat",
+          "source_index": 1
+        },
+        {
+          "text": "Lean protein",
+          "source_field": "foods_to_eat",
+          "source_index": 2
+        },
+        {
+          "text": "Legumes",
+          "source_field": "foods_to_eat",
+          "source_index": 3
+        }
+      ],
+      "foods_to_avoid": [
+        {
+          "text": "Sugary drinks",
+          "source_field": "foods_to_avoid",
+          "source_index": 0
+        },
+        {
+          "text": "White bread",
+          "source_field": "foods_to_avoid",
+          "source_index": 1
+        },
+        {
+          "text": "Pastries",
+          "source_field": "foods_to_avoid",
+          "source_index": 2
+        },
+        {
+          "text": "Fried foods",
+          "source_field": "foods_to_avoid",
+          "source_index": 3
+        }
+      ],
+      "source_reported_course": {
+        "text": "Chronic condition - lifelong management required",
+        "source_field": "recovery_time"
+      },
+      "withheld": false
+    },
+    "Hypertension": {
+      "condition": "Hypertension",
+      "source": "medicare.zip / medicine_database.pkl",
+      "verified_medically": false,
+      "description": null,
+      "description_status": "No disease description was supplied in the available reference dataset.",
+      "medicine_names": [
+        {
+          "text": "Lisinopril",
+          "source_field": "medicines",
+          "source_index": 0,
+          "source_text_sha256": "b903da368d27fc1867324239716b63dc5f4580b37e405e58efb8fefbaeeee4dd"
+        },
+        {
+          "text": "Amlodipine",
+          "source_field": "medicines",
+          "source_index": 1,
+          "source_text_sha256": "354e3c63be668196084e6708c53ed58ef9b98c386549c8ea807695a73b5539f5"
+        },
+        {
+          "text": "Losartan",
+          "source_field": "medicines",
+          "source_index": 2,
+          "source_text_sha256": "ec920af639ddb2b812fb39ee8374cfa242efa37c8118f6d739a5db7acf2c45c4"
+        }
+      ],
+      "foods_to_eat": [
+        {
+          "text": "Bananas",
+          "source_field": "foods_to_eat",
+          "source_index": 0
+        },
+        {
+          "text": "Leafy greens",
+          "source_field": "foods_to_eat",
+          "source_index": 1
+        },
+        {
+          "text": "Berries",
+          "source_field": "foods_to_eat",
+          "source_index": 2
+        },
+        {
+          "text": "Oats",
+          "source_field": "foods_to_eat",
+          "source_index": 3
+        },
+        {
+          "text": "Garlic",
+          "source_field": "foods_to_eat",
+          "source_index": 4
+        }
+      ],
+      "foods_to_avoid": [
+        {
+          "text": "Salty snacks",
+          "source_field": "foods_to_avoid",
+          "source_index": 0
+        },
+        {
+          "text": "Canned foods",
+          "source_field": "foods_to_avoid",
+          "source_index": 1
+        },
+        {
+          "text": "Pickles",
+          "source_field": "foods_to_avoid",
+          "source_index": 2
+        },
+        {
+          "text": "Processed meats",
+          "source_field": "foods_to_avoid",
+          "source_index": 3
+        }
+      ],
+      "source_reported_course": {
+        "text": "Chronic - requires lifelong management",
+        "source_field": "recovery_time"
+      },
+      "withheld": false
+    },
+    "Pneumonia": {
+      "condition": "Pneumonia",
+      "source": "medicare.zip / medicine_database.pkl",
+      "verified_medically": false,
+      "description": null,
+      "description_status": "No disease description was supplied in the available reference dataset.",
+      "medicine_names": [
+        {
+          "text": "Amoxicillin",
+          "source_field": "medicines",
+          "source_index": 0,
+          "source_text_sha256": "0f9ad607f814b871b8cae371c82184cc725c4046ec1e8a360ddfd88359726df8"
+        },
+        {
+          "text": "Azithromycin",
+          "source_field": "medicines",
+          "source_index": 1,
+          "source_text_sha256": "0fcdf3b2a0fc5bbbbc4f13e030abe8307604c7ac4aae1a6db89b8a68b9e2effc"
+        },
+        {
+          "text": "Acetaminophen",
+          "source_field": "medicines",
+          "source_index": 2,
+          "source_text_sha256": "2acf50d72f8011dafefd816b161d5a80b3585b139deba7832c6101072ed82d22"
+        }
+      ],
+      "foods_to_eat": [
+        {
+          "text": "Warm soups",
+          "source_field": "foods_to_eat",
+          "source_index": 0
+        },
+        {
+          "text": "Protein-rich foods",
+          "source_field": "foods_to_eat",
+          "source_index": 1
+        },
+        {
+          "text": "Fruits",
+          "source_field": "foods_to_eat",
+          "source_index": 2
+        },
+        {
+          "text": "Vegetables",
+          "source_field": "foods_to_eat",
+          "source_index": 3
+        }
+      ],
+      "foods_to_avoid": [
+        {
+          "text": "Cold drinks",
+          "source_field": "foods_to_avoid",
+          "source_index": 0
+        },
+        {
+          "text": "Dairy (if increases mucus)",
+          "source_field": "foods_to_avoid",
+          "source_index": 1
+        },
+        {
+          "text": "Alcohol",
+          "source_field": "foods_to_avoid",
+          "source_index": 2
+        }
+      ],
+      "source_reported_course": {
+        "text": "2-4 weeks, elderly may take longer",
+        "source_field": "recovery_time"
+      },
+      "withheld": false
+    },
+    "Common Cold": {
+      "condition": "Common Cold",
+      "source": "medicare.zip / medicine_database.pkl",
+      "verified_medically": false,
+      "description": null,
+      "description_status": "No disease description was supplied in the available reference dataset.",
+      "medicine_names": [
+        {
+          "text": "Acetaminophen",
+          "source_field": "medicines",
+          "source_index": 0,
+          "source_text_sha256": "c476fafe683f03b7e8a2ec24f080a875b00545c67a97d16a2e50b720ec09680b"
+        },
+        {
+          "text": "Pseudoephedrine",
+          "source_field": "medicines",
+          "source_index": 1,
+          "source_text_sha256": "d2c6251fef0b8760b2479a80bda37c6d76b501c4548d4f10bbc2c61d6fece9eb"
+        },
+        {
+          "text": "Vitamin C",
+          "source_field": "medicines",
+          "source_index": 2,
+          "source_text_sha256": "58b28731143918f9791c5e6e511f5b4f5667b79b796855937c7fcf413117d5fb"
+        }
+      ],
+      "foods_to_eat": [
+        {
+          "text": "Chicken soup",
+          "source_field": "foods_to_eat",
+          "source_index": 0
+        },
+        {
+          "text": "Citrus fruits",
+          "source_field": "foods_to_eat",
+          "source_index": 1
+        },
+        {
+          "text": "Ginger tea",
+          "source_field": "foods_to_eat",
+          "source_index": 2
+        },
+        {
+          "text": "Garlic",
+          "source_field": "foods_to_eat",
+          "source_index": 3
+        }
+      ],
+      "foods_to_avoid": [
+        {
+          "text": "Dairy (may increase mucus)",
+          "source_field": "foods_to_avoid",
+          "source_index": 0
+        },
+        {
+          "text": "Sugar",
+          "source_field": "foods_to_avoid",
+          "source_index": 1
+        },
+        {
+          "text": "Processed foods",
+          "source_field": "foods_to_avoid",
+          "source_index": 2
+        }
+      ],
+      "source_reported_course": {
+        "text": "7-10 days",
+        "source_field": "recovery_time"
+      },
+      "withheld": false
+    },
+    "Bronchitis": {
+      "condition": "Bronchitis",
+      "source": "medicare.zip / medicine_database.pkl",
+      "verified_medically": false,
+      "description": null,
+      "description_status": "No disease description was supplied in the available reference dataset.",
+      "medicine_names": [
+        {
+          "text": "Albuterol inhaler",
+          "source_field": "medicines",
+          "source_index": 0,
+          "source_text_sha256": "211553f906a9012fa2dbe425d4309c6842255330043019ba5187b0e7f2067dff"
+        },
+        {
+          "text": "Prednisone",
+          "source_field": "medicines",
+          "source_index": 1,
+          "source_text_sha256": "555f1018fa04301b08cc95bd9f1574eb67d2524c689d84d348ebc2385222abfc"
+        },
+        {
+          "text": "Dextromethorphan cough syrup",
+          "source_field": "medicines",
+          "source_index": 2,
+          "source_text_sha256": "4c3ad5b5cf46fc4b423a2f2a27ac60e6d36a1a30ec8165e4da6357cb73465dde"
+        }
+      ],
+      "foods_to_eat": [
+        {
+          "text": "Warm soups",
+          "source_field": "foods_to_eat",
+          "source_index": 0
+        },
+        {
+          "text": "Ginger",
+          "source_field": "foods_to_eat",
+          "source_index": 1
+        },
+        {
+          "text": "Turmeric milk",
+          "source_field": "foods_to_eat",
+          "source_index": 2
+        },
+        {
+          "text": "Honey",
+          "source_field": "foods_to_eat",
+          "source_index": 3
+        }
+      ],
+      "foods_to_avoid": [
+        {
+          "text": "Cold foods",
+          "source_field": "foods_to_avoid",
+          "source_index": 0
+        },
+        {
+          "text": "Dairy",
+          "source_field": "foods_to_avoid",
+          "source_index": 1
+        },
+        {
+          "text": "Fried foods",
+          "source_field": "foods_to_avoid",
+          "source_index": 2
+        },
+        {
+          "text": "Spicy foods",
+          "source_field": "foods_to_avoid",
+          "source_index": 3
+        }
+      ],
+      "source_reported_course": {
+        "text": "2-3 weeks",
+        "source_field": "recovery_time"
+      },
+      "withheld": false
+    },
+    "Depression": {
+      "condition": "Depression",
+      "source": "medicare.zip / medicine_database.pkl",
+      "verified_medically": false,
+      "description": null,
+      "description_status": "No disease description was supplied in the available reference dataset.",
+      "medicine_names": [
+        {
+          "text": "Sertraline (Zoloft)",
+          "source_field": "medicines",
+          "source_index": 0,
+          "source_text_sha256": "6e9476116f898ae2dd38839b271035f340fe25d70c6d241cbbfbabb3d70b12f9"
+        },
+        {
+          "text": "Fluoxetine (Prozac)",
+          "source_field": "medicines",
+          "source_index": 1,
+          "source_text_sha256": "4da891e40ed26692f686ff0218cd7e425057ec52d501de1ba1727c63acf13215"
+        }
+      ],
+      "foods_to_eat": [
+        {
+          "text": "Fatty fish",
+          "source_field": "foods_to_eat",
+          "source_index": 0
+        },
+        {
+          "text": "Nuts",
+          "source_field": "foods_to_eat",
+          "source_index": 1
+        },
+        {
+          "text": "Leafy greens",
+          "source_field": "foods_to_eat",
+          "source_index": 2
+        },
+        {
+          "text": "Whole grains",
+          "source_field": "foods_to_eat",
+          "source_index": 3
+        }
+      ],
+      "foods_to_avoid": [
+        {
+          "text": "Alcohol",
+          "source_field": "foods_to_avoid",
+          "source_index": 0
+        },
+        {
+          "text": "Excessive sugar",
+          "source_field": "foods_to_avoid",
+          "source_index": 1
+        },
+        {
+          "text": "Processed foods",
+          "source_field": "foods_to_avoid",
+          "source_index": 2
+        }
+      ],
+      "source_reported_course": {
+        "text": "Varies - 3-6 months with treatment, ongoing management",
+        "source_field": "recovery_time"
+      },
+      "withheld": false
+    },
+    "Stroke": {
+      "condition": "Stroke",
+      "source": "medicare.zip / medicine_database.pkl",
+      "verified_medically": false,
+      "description": null,
+      "description_status": "No disease description was supplied in the available reference dataset.",
+      "medicine_names": [],
+      "foods_to_eat": [],
+      "foods_to_avoid": [],
+      "source_reported_course": null,
+      "withheld": true,
+      "withheld_reason": "The source contains conflicting emergency medication instructions. Its recommendation fields are withheld from this educational interface."
+    },
+    "Anxiety Disorders": {
+      "condition": "Anxiety Disorders",
+      "source": "medicare.zip / medicine_database.pkl",
+      "verified_medically": false,
+      "description": null,
+      "description_status": "No disease description was supplied in the available reference dataset.",
+      "medicine_names": [
+        {
+          "text": "Sertraline",
+          "source_field": "medicines",
+          "source_index": 0,
+          "source_text_sha256": "763dea78ac73dba871cc47571870c4fed31bc9052688c86fbec465b8a58b5a53"
+        },
+        {
+          "text": "Buspirone",
+          "source_field": "medicines",
+          "source_index": 1,
+          "source_text_sha256": "42df466db9c6451a3943ddfb440305c115d85eb9da9cb73be1492884794d94ce"
+        },
+        {
+          "text": "Alprazolam",
+          "source_field": "medicines",
+          "source_index": 2,
+          "source_text_sha256": "8542781bd9b30d47351ec53a252482f619f5b69df71c7e82e250ce30f5a0a03a"
+        }
+      ],
+      "foods_to_eat": [
+        {
+          "text": "Complex carbs",
+          "source_field": "foods_to_eat",
+          "source_index": 0
+        },
+        {
+          "text": "Chamomile tea",
+          "source_field": "foods_to_eat",
+          "source_index": 1
+        },
+        {
+          "text": "Dark chocolate",
+          "source_field": "foods_to_eat",
+          "source_index": 2
+        },
+        {
+          "text": "Almonds",
+          "source_field": "foods_to_eat",
+          "source_index": 3
+        }
+      ],
+      "foods_to_avoid": [
+        {
+          "text": "Caffeine",
+          "source_field": "foods_to_avoid",
+          "source_index": 0
+        },
+        {
+          "text": "Alcohol",
+          "source_field": "foods_to_avoid",
+          "source_index": 1
+        },
+        {
+          "text": "Sugar",
+          "source_field": "foods_to_avoid",
+          "source_index": 2
+        },
+        {
+          "text": "Processed foods",
+          "source_field": "foods_to_avoid",
+          "source_index": 3
+        }
+      ],
+      "source_reported_course": {
+        "text": "Varies - 3-6 months with therapy, ongoing management",
+        "source_field": "recovery_time"
+      },
+      "withheld": false
+    }
+  }
+}

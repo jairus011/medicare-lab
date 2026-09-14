@@ -1,0 +1,16 @@
+{
+  "automated_tests": 31,
+  "failures": 0,
+  "errors": 0,
+  "streamlit_patterns_tested": 15,
+  "browser_checks_passed": 6,
+  "javascript_errors": 0,
+  "notebook_code_cells_executed": 12,
+  "notebook_execution_method": "in-process IPython; actual cells and rich outputs",
+  "reproduced_selection_scores_predictions_and_splits": true,
+  "pdf_pages": 3,
+  "screenshots": 4,
+  "platform_tested": "Linux / Python 3.12.14",
+  "windows_instructions_included": true,
+  "windows_execution_tested": false
+}

@@ -1,0 +1,50 @@
+{
+  "source_sha256": "620442d1788959909993d0a4b0a29df29c8bc5eae3a04b2e09d15540b4dba9dd",
+  "raw_rows": 349,
+  "raw_columns": 14,
+  "raw_labels": 116,
+  "missing_cells": 0,
+  "duplicate_rows_removed": 49,
+  "clean_rows": 300,
+  "conflicting_full_profile_groups": 45,
+  "symptom_patterns": 16,
+  "ambiguous_symptom_patterns": 16,
+  "max_labels_per_symptom_pattern": 65,
+  "deterministic_symptom_ceiling_clean": 0.12333333333333334,
+  "deterministic_symptom_ceiling_study": 0.18974358974358974,
+  "ceiling_note": "Descriptive in-sample bound on deterministic symptom-only prediction, not validation or a clinical statistic.",
+  "risk_values_per_disease": {
+    "1": 116
+  },
+  "included_labels": 28,
+  "excluded_labels": 88,
+  "study_rows": 195,
+  "excluded_clean_rows": 105,
+  "minimum_class_profiles": 5,
+  "features": [
+    "fever",
+    "cough",
+    "fatigue",
+    "difficulty_breathing"
+  ],
+  "excluded_features": {
+    "risk_level": "A deterministic disease-level mapping; unavailable before the prediction.",
+    "outcome_variable": "An outcome with undocumented timing; not known at symptom entry.",
+    "age_scaled": "Precomputed using undocumented fit data; duplicates age.",
+    "bp_scaled": "Precomputed using undocumented fit data; duplicates blood_pressure.",
+    "chol_scaled": "Precomputed using undocumented fit data; duplicates cholesterol_level.",
+    "age": "Not entered by the symptom-only interface; used only for duplicate grouping.",
+    "gender": "Not entered by the symptom-only interface; used only for duplicate grouping.",
+    "blood_pressure": "Not entered by the symptom-only interface; used only for duplicate grouping.",
+    "cholesterol_level": "Not entered by the symptom-only interface; used only for duplicate grouping."
+  },
+  "truncated_labels": [
+    "Chronic Obstructive Pulmonary...",
+    "Eating Disorders (Anorexia",
+    "Myocardial Infarction (Heart...",
+    "Obsessive-Compulsive Disorde...",
+    "Systemic Lupus Erythematosus..."
+  ],
+  "grouping_note": "Group key hashes the 8 raw pre-outcome fields, without the target. No patient ID, time, site or clinical provenance was supplied. Independence cannot be verified.",
+  "scope_note": "A predefined minimum of 5 distinct raw profiles per original label defines this small study. No Other class and no guessed alias merges. Out-of-scope conditions cannot be detected by the model."
+}

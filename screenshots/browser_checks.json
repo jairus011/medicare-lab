@@ -1,0 +1,27 @@
+{
+  "url": "localhost Streamlit server",
+  "browser": "Chromium",
+  "checks_passed": [
+    "Empty input rejected in live browser",
+    "Symptom selection and model result rendered",
+    "Opt-in exact source names displayed without dose instructions",
+    "Evaluation page and plot rendered",
+    "No desktop horizontal overflow",
+    "390px mobile layout renders without horizontal overflow"
+  ],
+  "javascript_errors": [],
+  "desktop_viewport": [
+    1440,
+    1800
+  ],
+  "mobile_viewport": [
+    390,
+    1800
+  ],
+  "screenshots": [
+    "symptom_explorer.png",
+    "condition_reference.png",
+    "model_evaluation.png",
+    "mobile_explorer.png"
+  ]
+}

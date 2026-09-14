@@ -1,0 +1,32 @@
+condition,precision,recall,f1-score,support
+Allergic Rhinitis,0.0,0.0,0.0,2.0
+Anxiety Disorders,0.0,0.0,0.0,1.0
+Asthma,1.0,0.3333333333333333,0.5,3.0
+Bronchitis,0.0,0.0,0.0,2.0
+Common Cold,0.0,0.0,0.0,1.0
+Crohn's Disease,0.0,0.0,0.0,1.0
+Depression,0.0,0.0,0.0,1.0
+Diabetes,0.0,0.0,0.0,2.0
+Eczema,0.0,0.0,0.0,1.0
+Gastroenteritis,0.0,0.0,0.0,1.0
+Hypertension,0.0,0.0,0.0,2.0
+Hyperthyroidism,0.0,0.0,0.0,1.0
+Hypothyroidism,0.0,0.0,0.0,1.0
+Influenza,0.0,0.0,0.0,1.0
+Kidney Cancer,0.0,0.0,0.0,1.0
+Kidney Disease,0.0,0.0,0.0,1.0
+Liver Cancer,0.0,0.0,0.0,1.0
+Liver Disease,0.0,0.0,0.0,1.0
+Migraine,0.0,0.0,0.0,2.0
+Osteoarthritis,0.0,0.0,0.0,1.0
+Osteoporosis,0.0,0.0,0.0,2.0
+Pancreatitis,0.0,0.0,0.0,1.0
+Pneumonia,0.0,0.0,0.0,1.0
+Psoriasis,0.0,0.0,0.0,1.0
+Rheumatoid Arthritis,0.0,0.0,0.0,1.0
+Stroke,0.3333333333333333,0.3333333333333333,0.3333333333333333,3.0
+Ulcerative Colitis,0.0,0.0,0.0,1.0
+Urinary Tract Infection,0.0,0.0,0.0,1.0
+accuracy,0.05263157894736842,0.05263157894736842,0.05263157894736842,0.05263157894736842
+macro avg,0.047619047619047616,0.023809523809523808,0.02976190476190476,38.0
+weighted avg,0.10526315789473684,0.05263157894736842,0.06578947368421052,38.0

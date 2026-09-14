@@ -1,0 +1,352 @@
+{
+  "Influenza": {
+    "medicines": [
+      "💊 Oseltamivir (Tamiflu) 75mg - Take twice daily for 5 days",
+      "💊 Acetaminophen 500mg - Every 6 hours for fever",
+      "💊 Ibuprofen 400mg - Every 8 hours for body aches",
+      "💧 Plenty of fluids - Water, juice, warm lemon water with honey"
+    ],
+    "dosage_instructions": [
+      "⏰ Take Tamiflu within 48 hours of symptom onset",
+      "🍽️ Can be taken with or without food",
+      "⚠️ Complete the full 5-day course even if feeling better"
+    ],
+    "advice": [
+      "🛏️ REST: Get 8-10 hours of sleep per night",
+      "💧 HYDRATION: Drink at least 8-10 glasses of water daily",
+      "🏠 ISOLATION: Stay home for at least 7 days or until fever-free for 24 hours",
+      "🤧 HYGIENE: Cover mouth when coughing, wash hands frequently",
+      "🌡️ MONITOR: Check temperature twice daily",
+      "📞 SEEK HELP: If difficulty breathing, chest pain, or confusion develops"
+    ],
+    "foods_to_eat": [
+      "Chicken soup",
+      "Citrus fruits",
+      "Ginger tea",
+      "Garlic",
+      "Honey"
+    ],
+    "foods_to_avoid": [
+      "Dairy products",
+      "Fried foods",
+      "Alcohol",
+      "Caffeine"
+    ],
+    "recovery_time": "7-10 days",
+    "when_to_see_doctor": "If symptoms worsen after 3 days or difficulty breathing occurs"
+  },
+  "Asthma": {
+    "medicines": [
+      "💨 Albuterol (Rescue Inhaler) - 2 puffs every 4-6 hours as needed",
+      "💨 Fluticasone (Controller) 110mcg - 2 puffs twice daily",
+      "💊 Montelukast 10mg - Once daily at bedtime",
+      "🆘 Keep emergency inhaler with you ALWAYS"
+    ],
+    "dosage_instructions": [
+      "⏰ Use controller inhaler even when feeling well",
+      "📱 Use spacer device with inhaler for better delivery",
+      "🫁 Wait 1 minute between puffs",
+      "👄 Rinse mouth after using steroid inhaler"
+    ],
+    "advice": [
+      "🚭 AVOID TRIGGERS: Smoke, dust, pollen, pet dander, cold air",
+      "💨 BREATHING EXERCISES: Practice pursed-lip breathing daily",
+      "🏃 EXERCISE: Moderate activity with proper warm-up",
+      "📊 PEAK FLOW: Monitor peak flow readings daily",
+      "🆘 EMERGENCY: Use rescue inhaler, call 911 if no improvement in 15 min",
+      "💊 NEVER SKIP: Controller medications even when feeling well"
+    ],
+    "foods_to_eat": [
+      "Omega-3 rich fish",
+      "Fruits high in Vitamin C",
+      "Leafy greens"
+    ],
+    "foods_to_avoid": [
+      "Sulfite-containing foods",
+      "Processed meats",
+      "Dairy if sensitive"
+    ],
+    "recovery_time": "Chronic condition - requires ongoing management",
+    "when_to_see_doctor": "Using rescue inhaler more than 2x/week, nighttime symptoms"
+  },
+  "Diabetes": {
+    "medicines": [
+      "💊 Metformin 500mg - Twice daily with meals",
+      "💉 Insulin (if prescribed) - As per endocrinologist schedule",
+      "📊 Blood glucose test strips - Test before meals and bedtime",
+      "🍬 Glucose tablets - Keep for hypoglycemia emergencies"
+    ],
+    "dosage_instructions": [
+      "🍽️ Take Metformin with food to reduce stomach upset",
+      "💉 Rotate insulin injection sites to prevent lumps",
+      "❄️ Store insulin in refrigerator, not freezer",
+      "📊 Test blood sugar: Fasting and 2 hours after meals"
+    ],
+    "advice": [
+      "🍽️ DIET: Follow diabetic meal plan - low carb, high fiber",
+      "🏃 EXERCISE: 30 minutes daily walking or moderate activity",
+      "📊 MONITORING: Check blood sugar 3-4 times daily",
+      "👣 FOOT CARE: Inspect feet daily, moisturize, proper footwear",
+      "💉 INSULIN STORAGE: Keep at room temp for 28 days, refrigerate new",
+      "🚨 HYPOGLYCEMIA: Treat immediately with 15g fast-acting carbs"
+    ],
+    "foods_to_eat": [
+      "Non-starchy vegetables",
+      "Whole grains",
+      "Lean protein",
+      "Legumes"
+    ],
+    "foods_to_avoid": [
+      "Sugary drinks",
+      "White bread",
+      "Pastries",
+      "Fried foods"
+    ],
+    "recovery_time": "Chronic condition - lifelong management required",
+    "when_to_see_doctor": "Blood sugar consistently >300 or <70, ketones in urine"
+  },
+  "Hypertension": {
+    "medicines": [
+      "💊 Lisinopril 10mg - Once daily in the morning",
+      "💊 Amlodipine 5mg - Once daily",
+      "💊 Losartan 50mg - Once daily",
+      "🧂 Low sodium diet (<1500mg/day)"
+    ],
+    "dosage_instructions": [
+      "⏰ Take at the same time daily",
+      "🚫 NEVER skip doses or stop suddenly",
+      "📊 Monitor BP daily - same time, same arm",
+      "💊 Swallow whole, do not crush or chew"
+    ],
+    "advice": [
+      "🧂 DIET: Limit salt drastically - read all labels",
+      "🏃 EXERCISE: 30-45 minutes daily moderate cardio",
+      "📈 MONITORING: Check BP daily, keep log book",
+      "😌 STRESS MANAGEMENT: Meditation, yoga, deep breathing",
+      "⚖️ WEIGHT: Lose 5-10% body weight if overweight",
+      "🚫 AVOID: Alcohol, smoking, excessive caffeine"
+    ],
+    "foods_to_eat": [
+      "Bananas",
+      "Leafy greens",
+      "Berries",
+      "Oats",
+      "Garlic"
+    ],
+    "foods_to_avoid": [
+      "Salty snacks",
+      "Canned foods",
+      "Pickles",
+      "Processed meats"
+    ],
+    "recovery_time": "Chronic - requires lifelong management",
+    "when_to_see_doctor": "BP >180/120, severe headache, vision changes, chest pain"
+  },
+  "Pneumonia": {
+    "medicines": [
+      "💊 Amoxicillin 500mg - Three times daily for 7-10 days",
+      "💊 Azithromycin 500mg - Once daily for 5 days",
+      "💊 Acetaminophen for fever and pain",
+      "💨 Oxygen therapy if O2 saturation <92%"
+    ],
+    "dosage_instructions": [
+      "⏰ Complete FULL antibiotic course",
+      "🍽️ Take with food if stomach upset",
+      "💧 Drink extra fluids with antibiotics",
+      "⚠️ Do not stop early even if feeling better"
+    ],
+    "advice": [
+      "💊 ANTIBIOTICS: Complete full course - critical!",
+      "💧 FLUIDS: Drink warm liquids - soup, tea, water",
+      "🛏️ REST: Complete bed rest for 1-2 weeks minimum",
+      "🌡️ MONITOR: Temperature, breathing rate, oxygen levels",
+      "🚨 EMERGENCY: Difficulty breathing, bluish lips, confusion",
+      "🔄 FOLLOW-UP: Chest X-ray 6 weeks after treatment"
+    ],
+    "foods_to_eat": [
+      "Warm soups",
+      "Protein-rich foods",
+      "Fruits",
+      "Vegetables"
+    ],
+    "foods_to_avoid": [
+      "Cold drinks",
+      "Dairy (if increases mucus)",
+      "Alcohol"
+    ],
+    "recovery_time": "2-4 weeks, elderly may take longer",
+    "when_to_see_doctor": "Worsening breathing, persistent fever >3 days"
+  },
+  "Common Cold": {
+    "medicines": [
+      "💊 Acetaminophen 500mg - Every 6 hours for pain/fever",
+      "💊 Pseudoephedrine 30mg - Every 6 hours for congestion",
+      "💊 Vitamin C 1000mg - Once daily",
+      "🍯 Honey with warm lemon water - 3-4 times daily"
+    ],
+    "dosage_instructions": [
+      "⏰ Take decongestants for max 7 days only",
+      "💧 Increase fluid intake significantly",
+      "🌡️ Alternate Acetaminophen/Ibuprofen if needed",
+      "🍯 Honey is natural cough suppressant"
+    ],
+    "advice": [
+      "💧 HYDRATION: Warm liquids - soup, tea, lemon water",
+      "🛏️ REST: Extra sleep helps immune system",
+      "🤧 HYGIENE: Wash hands every 2 hours, sanitize surfaces",
+      "🏠 ISOLATION: Stay home to avoid spreading",
+      "🍯 HONEY: Natural remedy for cough (not for infants <1 year)",
+      "⏱️ DURATION: Symptoms typically resolve in 7-10 days"
+    ],
+    "foods_to_eat": [
+      "Chicken soup",
+      "Citrus fruits",
+      "Ginger tea",
+      "Garlic"
+    ],
+    "foods_to_avoid": [
+      "Dairy (may increase mucus)",
+      "Sugar",
+      "Processed foods"
+    ],
+    "recovery_time": "7-10 days",
+    "when_to_see_doctor": "Fever >101.5°F for >3 days, severe symptoms"
+  },
+  "Bronchitis": {
+    "medicines": [
+      "💨 Albuterol inhaler - 2 puffs every 4-6 hours",
+      "💊 Prednisone 20mg - Once daily for 5 days",
+      "💊 Dextromethorphan cough syrup - 10ml every 6 hours",
+      "💧 Use warm mist humidifier continuously"
+    ],
+    "dosage_instructions": [
+      "💨 Use inhaler properly with spacer",
+      "💊 Take Prednisone with food in morning",
+      "⚠️ Do not stop Prednisone abruptly",
+      "💧 Keep humidifier clean to prevent mold"
+    ],
+    "advice": [
+      "💨 HUMIDITY: Use warm mist humidifier 24/7",
+      "☕ WARM DRINKS: Tea with honey soothes airways",
+      "🚭 AVOID: Smoking and all irritants immediately",
+      "🛏️ REST: Avoid strenuous activities for 2 weeks",
+      "🌡️ MONITOR: If fever persists >3 days, see doctor",
+      "⏱️ COUGH: May last 2-3 weeks even after other symptoms resolve"
+    ],
+    "foods_to_eat": [
+      "Warm soups",
+      "Ginger",
+      "Turmeric milk",
+      "Honey"
+    ],
+    "foods_to_avoid": [
+      "Cold foods",
+      "Dairy",
+      "Fried foods",
+      "Spicy foods"
+    ],
+    "recovery_time": "2-3 weeks",
+    "when_to_see_doctor": "Cough with blood, high fever, worsening breathing"
+  },
+  "Depression": {
+    "medicines": [
+      "💊 Sertraline (Zoloft) 50mg - Once daily in morning",
+      "💊 Fluoxetine (Prozac) 20mg - Once daily",
+      "🧠 Cognitive Behavioral Therapy (CBT) - Weekly sessions",
+      "🏃 Exercise prescription - 30 minutes daily"
+    ],
+    "dosage_instructions": [
+      "⏰ Take at same time daily",
+      "⚠️ May take 4-6 weeks to feel full effect",
+      "🚫 NEVER stop suddenly - taper under doctor supervision",
+      "📊 Keep mood journal to track progress"
+    ],
+    "advice": [
+      "🧠 THERAPY: Attend weekly counseling sessions - essential",
+      "👥 SUPPORT: Join support group, talk to loved ones",
+      "🏃 EXERCISE: 30 minutes daily - proven to help",
+      "😴 SLEEP: Maintain 7-8 hour regular schedule",
+      "🍽️ NUTRITION: Eat balanced meals, omega-3 rich foods",
+      "⚠️ CRISIS: Call 988 (Suicide Prevention Hotline) if needed"
+    ],
+    "foods_to_eat": [
+      "Fatty fish",
+      "Nuts",
+      "Leafy greens",
+      "Whole grains"
+    ],
+    "foods_to_avoid": [
+      "Alcohol",
+      "Excessive sugar",
+      "Processed foods"
+    ],
+    "recovery_time": "Varies - 3-6 months with treatment, ongoing management",
+    "when_to_see_doctor": "Suicidal thoughts, inability to function, medication side effects"
+  },
+  "Stroke": {
+    "medicines": [
+      "🚨 EMERGENCY - CALL 911 IMMEDIATELY",
+      "💊 Aspirin 325mg - CHEW ONE right now if suspected",
+      "💉 tPA (tissue plasminogen activator) - Hospital only, within 4.5 hours",
+      "💊 Blood pressure medications - Hospital administration"
+    ],
+    "dosage_instructions": [
+      "⚠️ TIME = BRAIN: Every minute matters",
+      "🚑 Do NOT drive to hospital - call ambulance",
+      "💊 Aspirin - chew, do not swallow whole",
+      "⏱️ Note exact time symptoms started"
+    ],
+    "advice": [
+      "🚨 EMERGENCY: THIS IS LIFE-THREATENING",
+      "⏱️ TIME CRITICAL: tPA only works within 4.5 hours",
+      "📱 FAST CHECK: Face drooping, Arm weakness, Speech difficulty, Time to call 911",
+      "🏥 HOSPITAL: Immediate CT scan and specialist care",
+      "🚫 DO NOT: Give food, water, or medications",
+      "🔄 RECOVERY: Long-term rehabilitation required"
+    ],
+    "foods_to_eat": [
+      "Post-stroke: Soft foods, pureed if swallowing difficulty"
+    ],
+    "foods_to_avoid": [
+      "During emergency: NOTHING by mouth"
+    ],
+    "recovery_time": "Variable - months to years of rehabilitation",
+    "when_to_see_doctor": "THIS IS THE EMERGENCY - GO TO HOSPITAL NOW"
+  },
+  "Anxiety Disorders": {
+    "medicines": [
+      "💊 Sertraline 50mg - Once daily (long-term)",
+      "💊 Buspirone 10mg - Twice daily",
+      "💊 Alprazolam 0.25mg - As needed (short-term only)",
+      "🧘 Cognitive Behavioral Therapy - Weekly sessions"
+    ],
+    "dosage_instructions": [
+      "⏰ Take Sertraline same time daily",
+      "⚠️ Alprazolam: Use sparingly, addiction risk",
+      "📊 Track anxiety episodes in journal",
+      "🚫 Avoid alcohol with medications"
+    ],
+    "advice": [
+      "🧘 RELAXATION: Practice deep breathing 3x daily",
+      "☕ LIMIT: Reduce caffeine and alcohol significantly",
+      "😴 SLEEP: Maintain 7-8 hours nightly",
+      "📱 APPS: Use Calm, Headspace for guided meditation",
+      "🏃 EXERCISE: Regular activity reduces anxiety",
+      "💬 THERAPY: CBT is most effective treatment"
+    ],
+    "foods_to_eat": [
+      "Complex carbs",
+      "Chamomile tea",
+      "Dark chocolate",
+      "Almonds"
+    ],
+    "foods_to_avoid": [
+      "Caffeine",
+      "Alcohol",
+      "Sugar",
+      "Processed foods"
+    ],
+    "recovery_time": "Varies - 3-6 months with therapy, ongoing management",
+    "when_to_see_doctor": "Panic attacks interfering with daily life"
+  }
+}
